@@ -42,7 +42,7 @@ Note: `First Fork Then Click On Deploy Button!`
 
 - Clone the Repo
 ```
-git clone https://github.com/AsmSafone/MegaDL-Bot
+git clone https://github.com/selfie-bd/MegaDL-Bot
 ```
 - Enter the directory
 ```
